@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "CDMX Extended Planning"
+  },
+  "description": {
+    "en": "add value information related to the Mexico City Contracting Process (Planning)"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "documentationUrl": {
+    "en": "https://github.com/GobiernoFacil/ocds_cdmxExtendedPlanning_extension"
+  },
+  "schemas": [
+    "release-schema.json"
+  ]
+}

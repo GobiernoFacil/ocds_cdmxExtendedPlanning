@@ -1,0 +1,19 @@
+{
+  "definitions" : {
+    "Planning" : {
+      "properties" : {
+        "plannedContractingMethod" : {
+          "title" : "Planned Contracting Method",
+          "description" : "Procurement method foreseen according to current regulations",
+          "type" : ["string", "null"]
+        },
+
+        "consolidatedPurchase" : {
+          "title" : "Consolidated Purchase",
+          "description" : "define if this is a consolidated purchase",
+          "type" : ["boolean", "null"]
+        },
+      }
+    }
+  }
+}
