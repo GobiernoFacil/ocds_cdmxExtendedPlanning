@@ -12,7 +12,7 @@
           "title" : "Consolidated Purchase",
           "description" : "define if this is a consolidated purchase",
           "type" : ["boolean", "null"]
-        },
+        }
       }
     }
   }
